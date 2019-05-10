@@ -6,13 +6,13 @@ public interface Constants {
 
     final public static boolean DEBUG = true;
 
-    final public static String USERNAME = "informaticamobila2017";
-    final public static String IDENTITY_IMPI = "upb";
-    final public static String IDENTITY_PASSWORD = "3Z7iQzTcJekRpUnx";
-    final public static String DOMAIN = "upb.onsip.com";
+    final public static String USERNAME = "andreea";
+    final public static String IDENTITY_IMPI = "upb3";
+    final public static String IDENTITY_PASSWORD = "7r8FT3Tbo8wZiRJi";
+    final public static String DOMAIN = "upb3.onsip.com";
     final public static String NETWORK_PCSCF_HOST = "sip.onsip.com";
     final public static int NETWORK_PCSCF_PORT = 5060;
-    final public static String NETWORK_REALM = "upb.onsip.com";
+    final public static String NETWORK_REALM = "upb3.onsip.com";
 
     final public static boolean NETWORK_USE_3G = true;
     final public static int NETWORK_REGISTRATION_TIMEOUT = 3600;
